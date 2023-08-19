@@ -11,7 +11,7 @@ A basic calculator program implemented in Python that can perform addition, subt
 
 ## Getting Started
 
-1. Clone the repository to your local machine using: https://github.com/mariajosesalasmiranda/calculator.git
+1. Clone the repository to your local machine using: https://github.com/mariajosesalasmiranda/calculator_python.git
 2. Run the calculator script: python calculator.py
    
 ## Usage
