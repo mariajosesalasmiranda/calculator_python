@@ -22,7 +22,8 @@ A basic calculator program implemented in Python that can perform addition, subt
 
 ## Example
 
-![image](https://github.com/mariajosesalasmiranda/calculator/assets/129628251/e551c861-82d9-4c1a-949d-a20a91b19da9)
+![Screenshot 2023-08-19 164659](https://github.com/mariajosesalasmiranda/calculator_python/assets/129628251/b5cfe904-de1f-4609-844e-48a7d23ff1df)
+
 
 
 ## Acknowledgments
